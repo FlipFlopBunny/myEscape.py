@@ -1,2 +1,2 @@
 # myEscape.py
-Escae game from a book tutorial 
+Escape game from a book tutorial 
